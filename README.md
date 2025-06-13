@@ -6,25 +6,13 @@ Merci de pas le vendre , vous avez reçu gratuitement , donnez gratuitement 🤗
 
 reprise 2025 de https://github.com/StarLoco
 
-## Nouveautées :
-
-
-
-
 ## DEBUG :
 
-
-## AUTRES :
-
-
+13/06/2025
+- refresh hotel de vente
+- il est péférable d'utilisé la version dofus-1.37.10-remastered.zip
 
 
 ## TELECHARGEMENT :
-
 ## AIDE :
-
-
-
-## REMERCIEMENT :
-
 # reprise_StarLoco_dofus_emu
